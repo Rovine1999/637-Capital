@@ -3,7 +3,7 @@
 #### By Rovine Sydney Wanjala
 
 #### Description
-Data simulation using python, data analysis, transactions
+Data simulation using python jupyter notebook, data analysis, transactions
 
 ### Requirements/Installation
 1). Install python
