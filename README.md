@@ -1,24 +1,25 @@
-## Rovine Sydney Wanjala, 10/05/2022
+### Rovine Sydney Wanjala, 10/05/2022
 
-### By Rovine Sydney Wanjala
+#### By Rovine Sydney Wanjala
 
 #### Description
 Data simulation using python, data analysis, transactions
 
-## Requirements/Installation
-#### Install python
-#### Create your preffered environment
-#### Install python pip from pyp
-#### Install python jupyter notebook
+### Requirements/Installation
+1). Install python
+2). Create your preffered environment
+3). Install python pip from pyp
+##### Install python jupyter notebook
 #### Clone the project
       git clone https://github.com/Rovine1999/637-Capital.git
-#### Or download the zip file to your preffered folder and extract the file
+#### Access github repository
+     https://github.com/Rovine1999/637-Capital
+##### Or download the zip file to your preffered folder and extract the file
 
-## Technology used
-Python
+### Technology used
 Jupyter notebook
 
-## Known Bugs
+### Known Bugs
 No bugs left unsolved
 
 ## Lisence
